@@ -16,7 +16,7 @@ I use Claude Code, Codex and OpenCode to build and iterate on software. My contr
 
 A browser game built with TypeScript, Phaser 3 and Vite. The implementation combines procedural graphics, a synthesised Web Audio soundtrack, scene-based gameplay and browser deployment.
 
-[Play the game](https://fremen.github.io/novastrike/) · [Read the engineering overview and source](https://github.com/Fremen/novastrike)
+[Play the game](https://fremen.github.io/novastrike/) · [Read the docs and source](https://github.com/Fremen/novastrike)
 
 ## How I work
 
