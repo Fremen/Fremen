@@ -8,7 +8,7 @@ My background spans global engineering, technology and R&D leadership. My work c
 
 I personally designed and built an internal application-hosting platform using AI coding agents, enabling employees to deploy and operate AI-built applications. Implementation details remain confidential.
 
-I use Claude Code, Codex and OpenCode to build and iterate on software. My contribution spans problem definition, architecture, implementation with agents, debugging and verification. I am particularly interested in how teams can delegate more engineering work while retaining clear accountability for the result.
+I use Claude Code, Codex and OpenCode to build and iterate on software. My contribution spans problem definition, architecture, implementation with agents, debugging and verification. I am particularly interested in how teams can delegate more engineering work to agents while retaining clear accountability for the result.
 
 ## Public project
 
