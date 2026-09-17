@@ -14,6 +14,12 @@ I use Claude Code, Codex and OpenCode to build and iterate on software. My contr
 
 I build for curiosity and for the pleasure of making something work. These projects include a tracker I built to follow the Artemis mission during the event, a simulation to explore it with my son, and browser games inspired by Amiga classics, built to try out Fable and other AI development tools. They give me room to experiment with AI-assisted development while staying hands-on with the code, controls, visuals and testing.
 
+### Phasr
+
+A local-first, open-source executive-function companion designed with neurodivergent people in mind. I built it to explore how calmer software can bridge the gap between planning and execution: one manageable step at a time, visible timeboxes, deliberate pause and return, and recovery from interruption. The public release includes a deterministic TypeScript engine, CLI and MCP interfaces, optional AI assistance, synthetic behavioural tests and a zero-account browser experience.
+
+[Try Phasr](https://fremen.github.io/phasr-core/) · [Read the docs and source](https://github.com/Fremen/phasr-core)
+
 ### NOVASTRIKE
 
 A browser game built with TypeScript, Phaser 3 and Vite. The implementation combines procedural graphics, a synthesised Web Audio soundtrack, scene-based gameplay and browser deployment.
