@@ -16,7 +16,7 @@ I build for curiosity and for the pleasure of making something work. These proje
 
 ### Phasr
 
-A local-first, open-source executive-function companion designed with neurodivergent people in mind. I built it to explore how calmer software can bridge the gap between planning and execution: one manageable step at a time, visible timeboxes, deliberate pause and return, and recovery from interruption. The public release includes a deterministic TypeScript engine, CLI and MCP interfaces, optional AI assistance, synthetic behavioural tests and a zero-account browser experience.
+A local-first, open-source executive-function companion designed with neurodivergent people in mind. I built it to explore how calmer software can bridge the gap between planning and execution: one manageable step at a time, visible timeboxes, deliberate pause and return, and recovery from interruption. The public release includes a deterministic TypeScript engine, CLI and MCP interfaces, optional AI assistance, synthetic behavioural tests and a browser demo with an on-device default and opt-in AI planning.
 
 [Try Phasr](https://fremen.github.io/phasr-core/) · [Read the docs and source](https://github.com/Fremen/phasr-core)
 
