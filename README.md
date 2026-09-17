@@ -12,7 +12,7 @@ I use Claude Code, Codex and OpenCode to build and iterate on software. My contr
 
 ## Public projects
 
-I build for curiosity and for the pleasure of making something work. These projects include a tracker I built to follow the Artemis mission during the event, a simulation to explore it with my son, and browser games inspired by the Amiga classics I enjoy. They give me room to experiment with AI-assisted development while staying hands-on with the code, controls, visuals and testing.
+I build for curiosity and for the pleasure of making something work. These projects include a tracker I built to follow the Artemis mission during the event, a simulation to explore it with my son, and browser games inspired by Amiga classics, built to try out Fable and other AI development tools. They give me room to experiment with AI-assisted development while staying hands-on with the code, controls, visuals and testing.
 
 ### NOVASTRIKE
 
