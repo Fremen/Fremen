@@ -10,13 +10,31 @@ I personally designed and built an internal application-hosting platform using A
 
 I use Claude Code, Codex and OpenCode to build and iterate on software. My contribution spans problem definition, architecture, implementation with agents, debugging and verification. I am particularly interested in how teams can delegate more engineering work to agents while retaining clear accountability for the result.
 
-## Public project
+## Public projects
 
 ### NOVASTRIKE
 
 A browser game built with TypeScript, Phaser 3 and Vite. The implementation combines procedural graphics, a synthesised Web Audio soundtrack, scene-based gameplay and browser deployment.
 
 [Play the game](https://fremen.github.io/novastrike/) · [Read the docs and source](https://github.com/Fremen/novastrike)
+
+### Bubble Caverns
+
+An original single-screen arcade platformer built in vanilla JavaScript. It combines deterministic game systems, procedural visuals and audio, developer harnesses, documented contracts and browser-based tests.
+
+[Play the game](https://fremen.github.io/bubble-caverns/) · [Read the docs and source](https://github.com/Fremen/bubble-caverns)
+
+### Canopy Breaker
+
+An original top-down browser action game built as a modular JavaScript system, with procedural visuals, synthesised audio, configurable controls and accessibility options.
+
+[Play the game](https://fremen.github.io/canopy-breaker/) · [Read the docs and source](https://github.com/Fremen/canopy-breaker)
+
+### Artemis II Mission Replay
+
+An independent interactive 3D mission-profile visualisation built with Three.js. It combines an animated Earth–Moon scene, replay controls and an illustrative mission timeline without external runtime dependencies.
+
+[Open the visualisation](https://fremen.github.io/artemis-ii-mission-replay/) · [Read the docs and source](https://github.com/Fremen/artemis-ii-mission-replay)
 
 ## How I work
 
