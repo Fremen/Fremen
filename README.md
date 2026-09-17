@@ -12,6 +12,8 @@ I use Claude Code, Codex and OpenCode to build and iterate on software. My contr
 
 ## Public projects
 
+I build for curiosity and for the pleasure of making something work. These projects include a tracker I built to follow the Artemis mission during the event, a simulation to explore it with my son, and browser games inspired by the Amiga classics I enjoy. They give me room to experiment with AI-assisted development while staying hands-on with the code, controls, visuals and testing.
+
 ### NOVASTRIKE
 
 A browser game built with TypeScript, Phaser 3 and Vite. The implementation combines procedural graphics, a synthesised Web Audio soundtrack, scene-based gameplay and browser deployment.
@@ -32,7 +34,7 @@ An original top-down browser action game built as a modular JavaScript system, w
 
 ### Artemis II Mission Replay
 
-An independent interactive 3D mission-profile visualisation built with Three.js. It combines an animated Earth–Moon scene, replay controls and an illustrative mission timeline without external runtime dependencies.
+This began as a tracker I built to follow the mission during the event, then became a simulation to explore the journey with my son. The public version is an independent, illustrative replay built with Three.js, with an animated Earth–Moon scene and replay controls.
 
 [Open the visualisation](https://fremen.github.io/artemis-ii-mission-replay/) · [Read the docs and source](https://github.com/Fremen/artemis-ii-mission-replay)
 
