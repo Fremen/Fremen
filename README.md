@@ -51,7 +51,7 @@ This began as a tracker I built to follow the mission during the event, then bec
 - Use agents to accelerate building, investigation and iteration.
 - Verify behaviour, examine failure cases and own the outcome.
 
-Some of my current product development remains private. I share selected, sanitised examples where appropriate, while protecting unpublished work and employer or client information.
+Some of my current product development remains private. I share selected, sanitised examples where appropriate, while protecting unpublished work.
 
 Forks on this account are tools I explore or build upon; they are credited to their original authors and are not presented as my own products.
 
